@@ -2,6 +2,8 @@
 
 Vending Machine CLI application in Ruby.
 
+_____________________________________________________________________
+
 What this applcation does:
 
 This vending machine has been designed to behave as followed:
@@ -19,6 +21,7 @@ This vending machine has been designed to behave as followed:
     
    ● The machine keeps track of the products and change that it contains.
 
+_____________________________________________________________________
 
 How to Run this cli application:
 
@@ -26,7 +29,31 @@ How to Run this cli application:
 2. cd into file
 3. Inside terminal:  ruby run.rb
 
-How to use this applcation:
+_____________________________________________________________________
+
+Running of this applcation:
+
+Firtly you are asked if you are a User or Maintaince.
+
+As a User you are able to -> 
+
+   - Insert name
+   - Selected a Item
+   - Insert coins 
+   - recieve Item and change if needed.
+   
+As Maintaince you are able to -> 
+
+   - Restock the products in the vending machine.
+   - Check or Restock the Change in side of the vending machine.
+   
+_____________________________________________________________________
+   
+   
+
+
+
+
 
 
 
